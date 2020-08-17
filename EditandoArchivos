@@ -18,3 +18,7 @@ On branch master
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
         modified:   Archivo1.txt
+        
+ C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\Prueba>git commit -m "Agregue un mensaje"
+[master 95eb967] Agregue un mensaje
+ 1 file changed, 1 insertion(+), 2 deletions(-)
