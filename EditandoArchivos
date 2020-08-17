@@ -22,3 +22,11 @@ Changes to be committed:
  C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\Prueba>git commit -m "Agregue un mensaje"
 [master 95eb967] Agregue un mensaje
  1 file changed, 1 insertion(+), 2 deletions(-)
+ 
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\Prueba>git log --oneline
+95eb967 (HEAD -> master) Agregue un mensaje
+568f2cf Edite3
+5ee4a55 Edite2
+a7cd8b1 Edite
+aaa8b5a A<C3><B1>adimos un mensaje
+bb98a16 A<C3><B1>ado varios archivos vacios
