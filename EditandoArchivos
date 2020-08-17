@@ -11,3 +11,10 @@ index 6b02f30..56d106f 100644
 -estas
 -yo estoy
 +Hola como estas
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\Prueba>git add .
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\Prueba>git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   Archivo1.txt
